@@ -1,4 +1,4 @@
-use crate::{coset::rcoset, dihedral::D, latex::ToLatex, table::Table};
+use crate::{dihedral::D, latex::ToLatex, table::Table};
 
 pub mod coset;
 pub mod dihedral;
